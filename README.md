@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RAJUxBHAI
 - 👀 I’m interested in Programming,Game & Software Development and Testing
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently working as an intern in Samsung Prism
 - 💞️ I’m looking to collaborate on different projects and internships related to my fields
-- 🤔 I’m looking for help with ... internship opportunity 😊
 - 💬 Ask me about ... anything u like to 🤗
 - 📫 How to reach me: ...
 - Facebook-https://www.facebook.com/dadu.thakur.35
