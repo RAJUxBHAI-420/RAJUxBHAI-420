@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAJUxBHAI
+- 👋 Hi, I’m @Ramanjan
 - 👀 I’m interested in Programming,Game & Software Development and Testing
 - 🌱 I’m currently working as an intern in Samsung Prism
 - 💞️ I’m looking to collaborate on different projects and internships related to my fields
